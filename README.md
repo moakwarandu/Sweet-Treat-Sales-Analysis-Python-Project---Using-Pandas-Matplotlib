@@ -1,4 +1,5 @@
 # Sweet Treat Sales Analysis (Python Project) - Using Pandas and Matplotlib
+![](image.png)
 
 This Python project is designed to analyze sales data for Sweet Treat Company, a company that sells ice cream, frozen yogurt, popsicles, and other frozen treats. 
 
