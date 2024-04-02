@@ -9,4 +9,4 @@ The data used in this project is provided by Kaggle.com. The data is from a sale
 
 The Pandas and Matplotlib queries were run in a Jupyter Notebook.
 
-Now, get ready to delve into the  [data!](https://github.com/moakwarandu/Sweet-Treat-Sales-Analysis-Python-Project---Using-Pandas-and-Matplotlib/blob/main/sweet.ipynb) 😄: !
+Now, get ready to delve into the data! [PLEASE CLICK HERE](https://github.com/moakwarandu/Sweet-Treat-Sales-Analysis-Python-Project---Using-Pandas-and-Matplotlib/blob/main/sweet.ipynb)😄: !
